@@ -9,7 +9,10 @@
 How are the company's sales, profitability and customer performance evolving, and what is behind any change in margin? This is an end-to-end analyst project: raw data, SQL modeling, margin driver analysis, a Tableau dashboard and a one-page executive summary.
 
 ## Dashboard
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 01 34 55" src="https://github.com/user-attachments/assets/ee208536-c062-47f2-8151-2705629d3afb" />
 
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 01 37 50" src="https://github.com/user-attachments/assets/c1526b5c-f3ac-4532-8497-f5bcadf4ab72" />
+<img width="1449" height="823" alt="Ekran Resmi 2026-10-04 01 38 25" src="https://github.com/user-attachments/assets/5cb24e86-dfe1-4376-97a1-21f114c98f0a" />
 
 
 The Tableau dashboard (built from CSV exports of the SQL views) tells the story in three charts:
